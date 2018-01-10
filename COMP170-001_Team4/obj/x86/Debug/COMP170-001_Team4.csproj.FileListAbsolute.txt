@@ -1,0 +1,28 @@
+C:\Users\cs\Box Sync\COMP170-001_Team4 (Julie Putis)\COMP170-001_Team4\obj\x86\Debug\COMP170-001_Team4.csprojResolveAssemblyReference.cache
+C:\Users\cs\Box Sync\COMP170-001_Team4 (Julie Putis)\COMP170-001_Team4\bin\Debug\COMP170-001_Team4.exe
+C:\Users\cs\Box Sync\COMP170-001_Team4 (Julie Putis)\COMP170-001_Team4\bin\Debug\COMP170-001_Team4.pdb
+C:\Users\cs\Box Sync\COMP170-001_Team4 (Julie Putis)\COMP170-001_Team4\obj\x86\Debug\COMP170-001_Team4.exe
+C:\Users\cs\Box Sync\COMP170-001_Team4 (Julie Putis)\COMP170-001_Team4\obj\x86\Debug\COMP170-001_Team4.pdb
+C:\Users\cs\Box Sync\COMP170-001_Team4\COMP170-001_Team4\obj\x86\Debug\COMP170-001_Team4.csprojResolveAssemblyReference.cache
+C:\Users\cs\Box Sync\COMP170-001_Team4\COMP170-001_Team4\obj\x86\Debug\COMP170-001_Team4.exe
+C:\Users\cs\Box Sync\COMP170-001_Team4\COMP170-001_Team4\obj\x86\Debug\COMP170-001_Team4.pdb
+C:\Users\cs\Box Sync\COMP170-001_Team4\COMP170-001_Team4\bin\Debug\COMP170-001_Team4.exe
+C:\Users\cs\Box Sync\COMP170-001_Team4\COMP170-001_Team4\bin\Debug\COMP170-001_Team4.pdb
+C:\Users\cs\Box Sync\COMP170-001_Team4\COMP170-001_Team4\bin\Debug\ui.dll
+C:\Users\cs\Box Sync\COMP170-001_Team4\COMP170-001_Team4\bin\Debug\ui.pdb
+C:\Users\cs\Box Sync\COMP170-001_Team4 (Julie Putis)\COMP170-001_Team4\bin\Debug\ui.dll
+C:\Users\cs\Box Sync\COMP170-001_Team4 (Julie Putis)\COMP170-001_Team4\bin\Debug\ui.pdb
+C:\Users\jnavarro2\Box Sync\COMP170-001_Team4\COMP170-001_Team4\obj\x86\Debug\COMP170-001_Team4.exe
+C:\Users\jnavarro2\Box Sync\COMP170-001_Team4\COMP170-001_Team4\obj\x86\Debug\COMP170-001_Team4.pdb
+C:\Users\jnavarro2\Box Sync\COMP170-001_Team4\COMP170-001_Team4\bin\Debug\COMP170-001_Team4.exe
+C:\Users\jnavarro2\Box Sync\COMP170-001_Team4\COMP170-001_Team4\bin\Debug\COMP170-001_Team4.pdb
+C:\Users\jnavarro2\Box Sync\COMP170-001_Team4\COMP170-001_Team4\bin\Debug\ui.dll
+C:\Users\jnavarro2\Box Sync\COMP170-001_Team4\COMP170-001_Team4\bin\Debug\ui.pdb
+C:\Users\jnavarro2\Box Sync\COMP170-001_Team4\COMP170-001_Team4\obj\x86\Debug\COMP170-001_Team4.csprojResolveAssemblyReference.cache
+C:\Users\Jarod\Box Sync\COMP170-001_Team4\COMP170-001_Team4\bin\Debug\COMP170-001_Team4.exe
+C:\Users\Jarod\Box Sync\COMP170-001_Team4\COMP170-001_Team4\bin\Debug\COMP170-001_Team4.pdb
+C:\Users\Jarod\Box Sync\COMP170-001_Team4\COMP170-001_Team4\bin\Debug\ui.dll
+C:\Users\Jarod\Box Sync\COMP170-001_Team4\COMP170-001_Team4\bin\Debug\ui.pdb
+C:\Users\Jarod\Box Sync\COMP170-001_Team4\COMP170-001_Team4\obj\x86\Debug\COMP170-001_Team4.csprojResolveAssemblyReference.cache
+C:\Users\Jarod\Box Sync\COMP170-001_Team4\COMP170-001_Team4\obj\x86\Debug\COMP170-001_Team4.exe
+C:\Users\Jarod\Box Sync\COMP170-001_Team4\COMP170-001_Team4\obj\x86\Debug\COMP170-001_Team4.pdb

@@ -1,0 +1,16 @@
+Welcome to Escape The Room. 
+This is a challenge unlike any other, a true test of your intuition.
+Be alert, be careful, and make smart choices.
+To win this game, you must escape the room alive. 
+(But watch out, the game is full of surprises)
+You have three HitPoints, and certain things can harm you. 
+Each thing that harms you will take 1 HP from you.
+
+Follow the prompted commands>>:
+enter: look around, examine (item), pick up (item), use (item), and 
+use (item) on (item), to navigate through the game
+Type: "help" for assistance with commands
+Type everything in lower-case!
+
+Type "begin" to start the game!
+

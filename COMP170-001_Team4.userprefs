@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="COMP170-001_Team4\COMP170-001_Team4.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="COMP170-001_Team4\inventory.cs">
+    <Files>
+      <File FileName="COMP170-001_Team4\play_game.cs" Line="239" Column="21" />
+      <File FileName="COMP170-001_Team4\inventory.cs" Line="1" Column="1" />
+      <File FileName="COMP170-001_Team4\MainClass.cs" Line="1" Column="1" />
+      <File FileName="COMP170-001_Team4\item.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

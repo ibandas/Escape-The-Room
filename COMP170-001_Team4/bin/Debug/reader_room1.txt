@@ -1,0 +1,138 @@
+*Thud*
+Getting up in a daze, you begin to look around the room.
+Immediately you notice that there are no doors. However, there are many objects around the room.
+Begin entering your commands to figure out how to solve this puzzle!
+
+Try typing specific commands in multiple ways so that the computer
+understands you. Often, the hints of the command are in the dialogue.
+For example, if the bed looks good to nap on, you can simple type
+'nap' in order to nap on the bed. However, the most common commands
+that you can always do, is 'look around', 'examine (object)', 'use (object)', 'use (item) on (item)'
+or 'help' to see this menu again. 
+Note: You don't need to 'examine under bed' or things of that specific nature. Saying 'examine bed'
+will tell you everything about the bed. What's on top of it, or underneath it.
+The same goes for other objects.
+Good luck loser!
+
+Bruh
+
+You look frantically around the room. It is just one large square box room.
+No doors anywhere to be seen, just walls.
+On one side you see a poster and coat rack with a trench coat on it.
+
+On the other side, you see a desk that faintly reminds you of a boring desk job.
+
+Then, on the 3rd side of the room sits a rather large bed.
+Beside the bed lies a tan rug that sits in the middle of the room.
+
+And the last side of the room has a bookshelf.
+
+I don't understand
+
+A hammer has been added to your inventory! Type 'examine hammer' to inspect it.
+
+That is not effective.
+
+The bookshelf contains many books. Some organized. And some disorganized.
+"Game of Thrones"..."1984"..."Outliers"
+However, one noticeable book stands out. A red book that seems to call out to you.
+
+The poster reads 'Join Comp 170, Introduction to Object-Oriented Programming'. 
+And the words seem to glow off the page, almost as if it was some magic calling to you.
+
+The book is red all over and very fragile. Opening it, dust flies out. 
+As your eyes clear up from the dust, you make out the words, "Bruh, look closer".
+Flipping through each page, you are insulted by the same condescending phrase.
+
+Looking closer at the bookshelf, you don't notice too mu--
+Hold up!
+Frantically removing all the books from the bookshelf, you realize that the wall is
+made of different material from behind the bookshelf. It's not steel like the walls around the room.
+This seems to be a normal wall. Almost.
+You should move the bookshelf to get a better view.
+
+Please stop. You're just embarrassing yourself. You're not as strong as Iri. Bro, do you even lift?
+
+You slam the bookshelf on the floor, and in doing so, revealing the vulnerable wall.
+When using commands on the vulnerable wall, refer to it as 'vulnerable wall'
+
+You hear the wall crack, but after a few more poundings with the hammer, 
+you realize that it's going to need something extra.
+
+A trench coat appears to be on the coat rack.
+
+Putting on the coat, you realize there is nothing special. However, you feel pretty swagful.
+
+The boring desk job seems to be covered with a mess. On top of the desk, you spot
+a computer, some paper clips, a PaperMate pen, and a delicious green apple. 
+Your stomach grumbles.
+The desk also contains many drawers that you can examine.
+
+Pulling out each drawer wide open one by one. You are able to find a journal, a screwdriver, hammer,
+old cheese, and a AWP(Sniper)) with one bullet. How a sniper came out of a drawer
+makes no sense to me too. 
+
+You have added a cross typed screwdriver to your inventory. Type 'examine screwdriver' to view it!
+
+You already have that item! Don't get greedy!
+
+The computer is broken. 
+No matter how many times you try to press the power button, it won't turn on. 
+Seems to be useless. Like Iri's old computer.
+
+The paper clips are utterly useless. 
+You throw them in a fit, angry that you aren't bright enough to get out of the room.
+
+You have added a blue pen to your inventory. Type 'examine pen' to view it!
+
+You already have that item! Don't get greedy!
+
+You have added an AWP to your inventory. Type 'examine gun' to view it.
+
+You have killed yourself. What did you hope to accomplish? Game Over.
+
+The bullet ricochets off the wall, injuring you. Sad that the only target you can hit is yourself.
+You have lost 1 HP.
+
+The bullet hits the poster. It stirs up on the ground. 
+It glows purple all around. 
+And in an instant, the bullet flies back into your AWP.
+
+For commands with the magic gun, use 'magic gun' rather than 'gun'.
+
+The wall breaks down. Light comes out from the end of the tunnel. Do you choose to 'escape room'?
+
+You have escaped the hellish room. Congratulations!
+
+It's old disgusting cheese.
+
+You take a bite. Why would you eat old disgusting cheese?! Now your injured. Good job.
+You have lost 1 HP.
+
+You took another bite. 
+You have lost 1 more HP.
+Your getting closer to dying, and that seems to be a good thing.
+
+Your injuries have bested you. You have collapsed and died. Game Over.
+
+The apple tastes amazing, but immediately you begin to vomit. 
+The green apple chunks are surrounded by the acid from your stomach along with blood.
+You have lost 1 HP.
+
+You throw your body on the bed, anticipating the kind of nap Rares would take.
+OW!
+You jump off the bed with holes all over your back. Looking back at the bed,
+you see spikes that pierced through the covers and injuring you. Blood drips all over.
+You have lost 1 HP.
+
+In an attempt to examine the rug, you idiotically slip on the rug.
+You have fallen and cracked your skull. Touching your skull, you feel something squishy. 
+You have lost 1 HP.
+
+You have added the Journal to your inventory. Type 'examine journal' to read its contents.
+
+Current HP:
+
+The bed faintly reminds you of the one you had in your old room. The cute little puppies
+that always protected you from the monsters at night just seems so inviting now.
+You really could use a nap, but you probably shouldn't.
